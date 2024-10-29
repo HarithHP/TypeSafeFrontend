@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\MagicCopyAdmin\MC_Admin.exe
+C:\Users\Administrator\Desktop\MagicCopyAdmin\MC_Admin.dll
+C:\Users\Administrator\Desktop\MagicCopyAdmin\MC_Admin.deps.json
+C:\Users\Administrator\Desktop\MagicCopyAdmin\MC_Admin.runtimeconfig.json
+C:\Users\Administrator\Desktop\MagicCopyAdmin\MC_Admin.pdb
+C:\Users\Administrator\Desktop\MagicCopyAdmin\ImGui.NET.dll
+C:\Users\Administrator\Desktop\MagicCopyAdmin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\MagicCopyAdmin\ReaLTaiizor.dll
+C:\Users\Administrator\Desktop\MagicCopyAdmin\System.CodeDom.dll
+C:\Users\Administrator\Desktop\MagicCopyAdmin\System.Management.dll
+C:\Users\Administrator\Desktop\MagicCopyAdmin\runtimes\linux-x64\native\libcimgui.so
+C:\Users\Administrator\Desktop\MagicCopyAdmin\runtimes\osx\native\libcimgui.dylib
+C:\Users\Administrator\Desktop\MagicCopyAdmin\runtimes\win-arm64\native\cimgui.dll
+C:\Users\Administrator\Desktop\MagicCopyAdmin\runtimes\win-x64\native\cimgui.dll
+C:\Users\Administrator\Desktop\MagicCopyAdmin\runtimes\win-x86\native\cimgui.dll
+C:\Users\Administrator\Desktop\MagicCopyAdmin\runtimes\win\lib\net6.0\System.Management.dll

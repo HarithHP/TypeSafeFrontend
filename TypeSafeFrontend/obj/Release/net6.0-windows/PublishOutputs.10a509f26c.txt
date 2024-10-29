@@ -1,0 +1,16 @@
+C:\Users\Harith\Desktop\New folder\MC_Admin.exe
+C:\Users\Harith\Desktop\New folder\MC_Admin.dll
+C:\Users\Harith\Desktop\New folder\MC_Admin.deps.json
+C:\Users\Harith\Desktop\New folder\MC_Admin.runtimeconfig.json
+C:\Users\Harith\Desktop\New folder\MC_Admin.pdb
+C:\Users\Harith\Desktop\New folder\ImGui.NET.dll
+C:\Users\Harith\Desktop\New folder\Newtonsoft.Json.dll
+C:\Users\Harith\Desktop\New folder\ReaLTaiizor.dll
+C:\Users\Harith\Desktop\New folder\System.CodeDom.dll
+C:\Users\Harith\Desktop\New folder\System.Management.dll
+C:\Users\Harith\Desktop\New folder\runtimes\linux-x64\native\libcimgui.so
+C:\Users\Harith\Desktop\New folder\runtimes\osx\native\libcimgui.dylib
+C:\Users\Harith\Desktop\New folder\runtimes\win-arm64\native\cimgui.dll
+C:\Users\Harith\Desktop\New folder\runtimes\win-x64\native\cimgui.dll
+C:\Users\Harith\Desktop\New folder\runtimes\win-x86\native\cimgui.dll
+C:\Users\Harith\Desktop\New folder\runtimes\win\lib\net6.0\System.Management.dll
